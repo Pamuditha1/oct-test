@@ -48,9 +48,7 @@ const BarChart = ({ type }) => {
   const [chartsConf] = useRecoilState(chartsConfAtom);
   let chartData;
   let filteredData;
-  console.log("cccccc", chartsConf);
   const chartConf = chartsConf?.find((c) => c.type === type);
-
   if (chartConf) {
     const { year, grade, sem } = chartConf;
     filteredData = data.filter(

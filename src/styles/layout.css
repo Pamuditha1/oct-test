@@ -1,0 +1,14 @@
+.charts-con {
+  margin: auto;
+}
+.layout-con {
+  float: left;
+  padding: 5%;
+}
+.close-btn-con {
+  position: relative;
+  background-color: aqua;
+}
+.close-btn {
+  float: right;
+}

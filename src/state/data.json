@@ -1,0 +1,184 @@
+[
+  {
+    "studentId": 1,
+    "studentName": "John",
+    "grade": 8,
+    "subject": "Maths",
+    "mark": 65,
+    "year": 2012,
+    "semester": 1
+  },
+  {
+    "studentId": 1,
+    "studentName": "John",
+    "grade": 9,
+    "subject": "Maths",
+    "mark": 75,
+    "year": 2013,
+    "semester": 1
+  },
+  {
+    "studentId": 1,
+    "studentName": "John",
+    "grade": 9,
+    "subject": "Maths",
+    "mark": 80,
+    "year": 2013,
+    "semester": 2
+  },
+  {
+    "studentId": 2,
+    "studentName": "Mike",
+    "grade": 11,
+    "subject": "Science",
+    "mark": 45,
+    "year": 2020,
+    "semester": 1
+  },
+  {
+    "studentId": 2,
+    "studentName": "Mike",
+    "grade": 8,
+    "subject": "Science",
+    "mark": 65,
+    "year": 2022,
+    "semester": 2
+  },
+  {
+    "studentId": 3,
+    "studentName": "Anderson",
+    "grade": 8,
+    "subject": "History",
+    "mark": 85,
+    "year": 2012,
+    "semester": 1
+  },
+  {
+    "studentId": 4,
+    "studentName": "Jorge",
+    "grade": 8,
+    "subject": "History",
+    "mark": 55,
+    "year": 2012,
+    "semester": 1
+  },
+  {
+    "studentId": 5,
+    "studentName": "Kelly",
+    "grade": 8,
+    "subject": "History",
+    "mark": 65,
+    "year": 2012,
+    "semester": 1
+  },
+  {
+    "studentId": 6,
+    "studentName": "Harry",
+    "grade": 10,
+    "subject": "Science",
+    "mark": 65,
+    "year": 2012,
+    "semester": 1
+  },
+  {
+    "studentId": 6,
+    "studentName": "Harry",
+    "grade": 10,
+    "subject": "Science",
+    "mark": 70,
+    "year": 2012,
+    "semester": 2
+  },
+  {
+    "studentId": 6,
+    "studentName": "Harry",
+    "grade": 11,
+    "subject": "Science",
+    "mark": 85,
+    "year": 2013,
+    "semester": 1
+  },
+  {
+    "studentId": 6,
+    "studentName": "Harry",
+    "grade": 11,
+    "subject": "Science",
+    "mark": 65,
+    "year": 2013,
+    "semester": 2
+  },
+
+  {
+    "studentId": 6,
+    "studentName": "Harry",
+    "grade": 10,
+    "subject": "Maths",
+    "mark": 90,
+    "year": 2012,
+    "semester": 1
+  },
+  {
+    "studentId": 6,
+    "studentName": "Harry",
+    "grade": 10,
+    "subject": "Maths",
+    "mark": 65,
+    "year": 2012,
+    "semester": 2
+  },
+  {
+    "studentId": 6,
+    "studentName": "Harry",
+    "grade": 11,
+    "subject": "Maths",
+    "mark": 65,
+    "year": 2013,
+    "semester": 1
+  },
+  {
+    "studentId": 6,
+    "studentName": "Harry",
+    "grade": 11,
+    "subject": "Maths",
+    "mark": 55,
+    "year": 2013,
+    "semester": 2
+  },
+
+  {
+    "studentId": 6,
+    "studentName": "Harry",
+    "grade": 10,
+    "subject": "History",
+    "mark": 40,
+    "year": 2012,
+    "semester": 1
+  },
+  {
+    "studentId": 6,
+    "studentName": "Harry",
+    "grade": 10,
+    "subject": "History",
+    "mark": 45,
+    "year": 2012,
+    "semester": 2
+  },
+  {
+    "studentId": 6,
+    "studentName": "Harry",
+    "grade": 11,
+    "subject": "History",
+    "mark": 35,
+    "year": 2013,
+    "semester": 1
+  },
+  {
+    "studentId": 6,
+    "studentName": "Harry",
+    "grade": 11,
+    "subject": "History",
+    "mark": 50,
+    "year": 2013,
+    "semester": 2
+  }
+]
